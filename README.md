@@ -6,9 +6,9 @@
 
 **Definition:**  The concept of possession is though basic and essential in human life, it is a difficult to define. Some Jurists have given different definitions.
 
-1. ***John Salmond:*** Salmond defines Possession as, “possession is the continuing exercise of a claim to the Exclusive use of an object.”
+1. ***John Salmond:*** Salmond defines Possession as, *“possession is the continuing exercise of a claim to the Exclusive use of an object.”*
 
-2. ***Savigny:*** Savigny defines Possession as, “intention coupled with physical power to exclude others from the use of material object.
+2. ***Savigny:*** Savigny defines Possession as, *“intention coupled with physical power to exclude others from the use of material object."*
 
 **Elements of Possession:** Corpus Possidendi and Animus Possidendi are two elements of possession
 
