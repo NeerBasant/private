@@ -1,4 +1,4 @@
-# Jurisprudence Presentation 
+# JURISPRUDENCE
 <hr>
 
 ## Possession: Concept and kinds of possession
@@ -35,7 +35,7 @@
 8. ***Adverse Possession:*** It refers to holding of the land/immovable property of any other party on his own behalf. When Adverse Possession continues without any hindrance or obstruction for a certain period of time, the person holding the property can claim for it thereby subsequently extinguishing the true owners’ rights.
 
 
-# Social Problems in Contemporary India Presentation
+# SOCIAL PROBLEMS IN CONTEMPORARY INDIA
 <hr>
 ## Understanding Poverty: Causes, Forms, and Remedies
 
