@@ -128,6 +128,7 @@ In India, where economic and social disparities pose significant barriers to leg
 
 # LAW OF EVIDENCE
 <hr>
+
 ## Estoppels 
 
 Estoppel, derived from the French word *"estoup"* meaning *"to shut the mouth,"* is a powerful legal doctrine that prevents a person from asserting something contrary to their previous words or actions. In Indian law, it serves as a shield against injustice arising from inconsistency and promotes fairness in legal proceedings.
@@ -162,6 +163,7 @@ Three key elements are essential for estoppel to apply:
 
 # DRAFTING, PLEADING, CONVEYANCING AND MOOT COURT TRIAL
 <hr>
+
 ## Pleading
 
 Pleadings serve as the cornerstones upon which legal battles are built. These formal written statements, drafted by parties engaged in a dispute, lay the groundwork for the court to understand the core issues, assess the claims, and ultimately deliver justice.
