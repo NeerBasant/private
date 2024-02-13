@@ -37,6 +37,7 @@
 
 # SOCIAL PROBLEMS IN CONTEMPORARY INDIA
 <hr>
+
 ## Understanding Poverty: Causes, Forms, and Remedies
 
 Poverty, a complex and multifaceted issue, plagues millions in India as well as worldwide While definitions vary, it generally refers to the inability to meet basic needs for survival and well-being. Understanding its causes, forms, and potential remedies is crucial for finding effective solutions.
