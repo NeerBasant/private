@@ -112,3 +112,36 @@ In India, where economic and social disparities pose significant barriers to leg
 4. ***Member-Secretary:*** A person belonging to the State Higher Judicial Service, not lower in rank than a District Judge, is appointed as the Member-Secretary of the SLSA. They handle the day-to-day administration and function as the executive arm of the Authority (Section 6(3)).
 
 **Conclusion:** The State Legal Service Authority serves as a critical institution in safeguarding fundamental rights and ensuring equal access to justice for all within a diverse and often-unequal society. By providing free legal aid, promoting legal awareness, and organizing Lok Adalats, SLSAs empower marginalized communities and bridge the gap between legal entitlements and their realization. Through their dedicated efforts, they strive to fulfill the promise of a truly inclusive and just Indian society.
+
+# LAW OF EVIDENCE
+<hr>
+## Estoppels 
+
+Estoppel, derived from the French word *"estoup"* meaning *"to shut the mouth,"* is a powerful legal doctrine that prevents a person from asserting something contrary to their previous words or actions. In Indian law, it serves as a shield against injustice arising from inconsistency and promotes fairness in legal proceedings.
+
+**Meaning and Essentials:**
+
+*Section 115* of the Indian Evidence Act defines estoppel: 
+> "When one person has, by his declaration, act or omission, intentionally caused or permitted another person to believe a thing to be true and to act upon such belief, neither he nor his representative shall be allowed, in any suit or proceeding between himself and such person or his representative, to deny the truth of that thing."
+
+Three key elements are essential for estoppel to apply:
+
+1. ***Representation:*** A statement, act, or omission that creates a belief in another person.
+
+2. ***Inducement:*** The representation must have been intended to induce the other person to act upon it.
+
+3. ***Detrimental Reliance:*** The other person must have suffered a loss or disadvantage by acting upon the belief.
+
+**Nature of Estoppel:** Estoppel is an equitable doctrine, meaning it is based on fairness and justice rather than strict legal rules. It prevents a party from exploiting inconsistencies in their own conduct to harm another who relied on their word or deed. It aims to maintain the sanctity of legal proceedings and prevent the abuse of process.
+
+**Kinds of Estoppel in Indian Law:**
+
+1. ***Estoppel by Deed:*** Arises from formal documents like contracts or conveyances. For example, if you sell land through a deed and later claim ownership, you are estopped by the deed.
+
+2. ***Estoppel by Record:*** Operates on the basis of court judgments and records. Once a court decides a matter between parties, they are estopped from raising the same issue again.
+
+3. ***Estoppel by Representation:*** Created by statements or actions, independent of formal documents. For example, if you assure someone a property is free of encumbrances and they buy it relying on your word, you are estopped from claiming otherwise.
+
+4. ***Estoppel by Acquiescence:*** Silent acceptance of another's claim or action can create estoppel. For example, if you know someone is occupying your land without objection for a long time, you may be estopped from evicting them later.
+
+**Conclusion:** Estoppel plays a crucial role in ensuring fairness and consistency in Indian legal proceedings. Understanding its essentials, nature, and different forms is crucial for legal professionals and individuals involved in disputes. It safeguards against the harm caused by inconsistent behavior and promotes just outcomes based on honest representations and actions.
